@@ -10,8 +10,10 @@
     <RepositoryUrl>https://github.com/netextensions/ServiceContentRoot</RepositoryUrl>
     <PackageTags>ContentRoot, windows service, .net core</PackageTags>
     <PackageId>NetExtensions.ServiceContentRoot</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Authors>netextensions.io</Authors> 
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,5 +21,8 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon.png" Pack="true" Visible="false" PackagePath="" />
   </ItemGroup>
 </Project>
