@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>ServiceContentRoot</RootNamespace>
+    <RootNamespace>NetExtensions</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Title>ServiceContentRoot</Title>
+    <Title>NetExtensions ServiceContentRoot</Title>
     <Description>ContentRoot for services</Description>
-    <PackageProjectUrl>https://github.com/csalat/ServiceContentRoot</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/csalat/ServiceContentRoot</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/netextensions/ServiceContentRoot</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/netextensions/ServiceContentRoot</RepositoryUrl>
     <PackageTags>ContentRoot, windows service, .net core</PackageTags>
-    <PackageId>ServiceContentRoot</PackageId>
+    <PackageId>NetExtensions.ServiceContentRoot</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>

@@ -1,8 +1,8 @@
 using System;
 using System.Diagnostics;
 using System.IO;
- 
-namespace ServiceContentRoot
+
+namespace NetExtensions.ServiceContentRoot
 {
     public class ServiceContentRoot
     {
